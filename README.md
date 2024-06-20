@@ -1,2 +1,2 @@
 # ImageToText
-Author ~ Sourav Dhali
+Author ~ Sourav Dhali(dhalisourav)
